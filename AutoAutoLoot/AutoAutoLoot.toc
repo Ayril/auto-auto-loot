@@ -1,0 +1,6 @@
+## Interface: 80200
+## Title: AutoAutoLoot
+## Version: 1.0
+## Notes: Automatically enables auto loot on login.
+## Author: Ayril
+AutoAutoLoot.lua
